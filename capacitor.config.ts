@@ -1,9 +1,9 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.runtracker.app',
+  appId: 'io.ionic.starter',
   appName: 'run-tracker-app',
-  webDir: 'dist/run-tracker-app/browser'
+  webDir: 'www'
 };
 
 export default config;
